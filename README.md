@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Amateur Project
+Rock Paper Scissors
